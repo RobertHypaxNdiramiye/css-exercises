@@ -5,6 +5,7 @@
 #idea{
     color: rgb(0, 119, 255);
     font-size: 36px;
+    font-family: monospace, sans-serif;
 }
 .cooler{
     font-size: 24px;
@@ -13,4 +14,5 @@
     background-color: rgb(144, 238, 144);
     font-size: 24px;
     font-weight: bold;
+    font-family: monospace, sans-serif;
 }
