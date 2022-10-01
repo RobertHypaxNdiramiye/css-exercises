@@ -13,6 +13,9 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
 }
 
 .profile-image {
@@ -54,4 +57,5 @@ ul {
 }
 .hino{
   display: flex;
+  gap: 10px;
 }
