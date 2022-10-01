@@ -78,3 +78,6 @@ button.cancel {
   align-items: center;
   padding: 10px;
 }
+.header{
+  font-weight: 700;
+}
