@@ -72,3 +72,9 @@ button.cancel {
 .warning{
   flex: 1;
 }
+.close{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
