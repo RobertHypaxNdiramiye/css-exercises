@@ -27,6 +27,10 @@ img {
 }
 .container{
   display: flex;
+  justify-content: space-between;
+  width: 100vh;
+  margin: 0 auto;
+  padding: 50px;
 }
 .item{
   width: 20vh;
