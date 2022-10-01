@@ -5,6 +5,7 @@ body {
 img {
   width: 100px;
   height: 100px;
+  padding: 0 45px;
 }
 
 .title {
@@ -12,7 +13,9 @@ img {
   font-weight: 900;
   text-align: center;
 }
-
+.text{
+  text-align: center;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
