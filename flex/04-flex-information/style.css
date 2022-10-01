@@ -28,3 +28,6 @@ img {
 .container{
   display: flex;
 }
+.item{
+  width: 20vh;
+}
