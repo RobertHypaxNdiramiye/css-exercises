@@ -66,6 +66,8 @@ button.cancel {
 }
 .modal{
   display: flex;
+  padding: 15px;
+  gap: 10px;
 }
 .warning{
   flex: 1;
