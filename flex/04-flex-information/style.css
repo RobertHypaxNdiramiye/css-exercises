@@ -25,3 +25,6 @@ img {
   justify-content: center;
   background: #eee;
 }
+.container{
+  display: flex;
+}
