@@ -32,3 +32,6 @@ a{
   display: flex;
   justify-content: space-between;
 }
+.left-links, .right-links{
+  list-style: none;
+}
