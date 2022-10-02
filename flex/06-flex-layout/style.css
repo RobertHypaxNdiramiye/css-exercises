@@ -25,6 +25,9 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+a{
+  text-decoration: none;
+}
 .header{
   display: flex;
   justify-content: space-between;
