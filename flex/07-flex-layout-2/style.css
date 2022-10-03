@@ -33,6 +33,9 @@ body {
 ul{
   display: flex;
   flex-direction: column;
+  row-gap: 20px;
+  list-style: none;
+  padding: 0;
 }
 .card {
   border: 1px solid #eee;
