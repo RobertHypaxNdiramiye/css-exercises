@@ -28,7 +28,7 @@ body {
   display: flex;
   justify-content: flex-start;
   flex-shrink: 0;
-  padding: 20px;
+  padding: 0 15px;
 }
 
 ul{
